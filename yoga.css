@@ -1,0 +1,17 @@
+.yoga{
+    font-size: 74px;
+    
+}
+@media screen and (max-width:425px) {
+    .yoga{
+        font-size: 44px;
+    }
+    .yogaimg{
+        width: 200vw;
+        height: 20vh;
+        
+    }
+    .navbar{
+        width: 110vw;
+    }
+}
